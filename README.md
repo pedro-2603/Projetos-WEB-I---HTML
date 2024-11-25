@@ -12,7 +12,7 @@ A **web** é um sistema global de documentos interconectados acessados pela inte
 
 ## Projetos Realizados
 
-### 1. **[Apresentação Pessoal](Apresentação Pessoal)**
+### 1. **Apresentação Pessoal**
 Neste projeto, criei uma página simples de apresentação pessoal. A página contém informações sobre quem sou, minhas habilidades e um pouco da minha história profissional. A ideia foi criar uma página clara e concisa, utilizando apenas HTML, para compartilhar informações importantes de forma acessível.
 
 ### 2. **Portfólio de Imagens**
