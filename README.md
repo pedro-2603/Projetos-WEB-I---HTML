@@ -1,5 +1,16 @@
 # Projetos-WEB-I---HTML
 
+Este repositório contém os seguintes projetos:
+
+1. [Apresentação Pessoal](./Apresentação%20Pessoal)
+2. [Portfólio de Imagens](./Portifólio%20de%20Imagens)
+3. [Página de Receitas](./Página%20de%20Receitas)
+4. [Site Pessoal](./Site%20Pessoal)
+5. [Tabela de Notas](./Tabela%20de%20Notas)
+6. [Roteiro de Viagens](./Roteiro%20de%20Viagens)
+7. [Cadastro de Usuário](./Cadastro%20de%20Usuário)
+
+
 # Meus Projetos em HTML
 
 Bem-vindo ao meu repositório de projetos! Aqui compartilho sete projetos desenvolvidos utilizando **HTML**. Esses projetos foram criados para me ajudar a aprimorar minhas habilidades em desenvolvimento web e são um exemplo do que é possível construir com uma base sólida de HTML.
@@ -38,7 +49,6 @@ Este projeto envolve a criação de uma página de cadastro de usuário. A pági
 ## Tecnologias Utilizadas
 
 - **HTML**: Para estruturar todas as páginas e conteúdo.
-- **CSS**: Em alguns projetos, usei CSS para melhorar a aparência e a organização visual.
 - **Editor de código**: Usei o **Visual Studio Code** para editar os projetos.
 
 ---
@@ -57,14 +67,4 @@ Esses projetos são uma ótima maneira de praticar HTML e explorar diferentes ti
 
 Se você tiver alguma dúvida ou sugestão, fique à vontade para abrir uma **issue** ou enviar um **pull request**!
 
-# Projetos
 
-Este repositório contém os seguintes projetos:
-
-1. [Apresentação Pessoal](./Apresentação%20Pessoal)
-2. [Portfólio de Imagens](./Portifólio%20de%20Imagens)
-3. [Página de Receitas](./Página%20de%20Receitas)
-4. [Site Pessoal](./Site%20Pessoal)
-5. [Tabela de Notas](./Tabela%20de%20Notas)
-6. [Roteiro de Viagens](./Roteiro%20de%20Viagens)
-7. [Cadastro de Usuário](./Cadastro%20de%20Usuário)
