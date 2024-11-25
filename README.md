@@ -57,7 +57,16 @@ Esses projetos são uma ótima maneira de praticar HTML e explorar diferentes ti
 
 Se você tiver alguma dúvida ou sugestão, fique à vontade para abrir uma **issue** ou enviar um **pull request**!
 
-** Projetos: ** 
+# Projetos
 
-- [Apresentação Pessoal](Apresentação Pessoal)
+Este repositório contém os seguintes projetos:
+
+1. [Apresentação Pessoal](./Apresentação_Pessoal)
+2. [Portfólio de Imagens](./Portifólio_de_Imagens)
+3. [Página de Receitas](./Página_de_Receitas)
+4. [Site Pessoal](./Site_Pessoal)
+5. [Tabela de Notas](./Tabela_de_Notas)
+6. [Roteiro de Viagens](./Roteiro_de_Viagens)
+7. [Cadastro de Usuário](./Cadastro_de_Usuário)
+
 
