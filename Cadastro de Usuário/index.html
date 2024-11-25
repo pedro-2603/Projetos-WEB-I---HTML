@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cadastro de Usuario</title>
+    </head>
+    <body>
+        <header>
+            <h1>Cadastro de Usuario</h1>
+                <nav>
+                    <ul>
+                        <li><a href="#cadastro">Formulario de Cadastro</a></li>
+                        <li><a href="#meusintereses">Meus Intereses</a></li>
+                        <li><a href="#sobremim">Sobre Mim</a></li>
+                        <li><a href="#contatos">Contatos</a></li>
+                    </ul>
+                </nav>
+            </header>
+            <section>
+                <h1 id="cadastro">Formulario de Cadastro</h1>
+                <form action="/enviar_dados" method="post">
+                    <label for="nome">Nome Completo:</label><br>
+                    <input type="text" id="nome" name="nome" required><br><br>
+
+                
+                    <label for="email">Email:</label><br>
+                    <input type="email" id="email" name="email" required><br><br>
+
+                    
+                    <label for="senha">Senha:</label><br>
+                    <input type="password" id="senha"> <br><br>
+
+
+                    <label for="genero">Gênero:</label><br>
+                    <select id="genero" name="genero">
+                    <option value="brasil">Maculino</option>
+                    <option value="eua">Feminino</option>
+                    <option value="portugal">Transgênero</option>
+                    <option value="portugal">Não-binário</option>
+                    <option value="portugal">Prefiro não Informar</option>
+                    </select><br><br>
+                    <section>
+                        <label id="meusintereses" for="intereses">Intereses:</label> <br>
+                        <input type="checkbox" id="intereses"> Programar <br>
+                        <input type="checkbox" id="intereses"> Desenhar <br>
+                        <input type="checkbox" id="intereses"> Desin <br>
+                        <input type="checkbox" id="intereses"> Ciência de Dados <br>
+                        <input type="checkbox" id="intereses"> Engenharia de Computadores <br> <br>
+                    </section>
+                    <section>
+                        <label id="sobremim" for="mensagem">Biografia:</label> <br><br>
+                        <textarea id="mensagem" name="mensagem" rows="4" cols="30"></textarea><br><br>
+                        <input type="submit" id="Enviar">
+                    </section>
+                    <footer>
+                        <h1 id="contatos">Contatos!</h1>
+                        <p> Email: p.santos@aluno.ifce.edu.br</p>
+                        <p>Telefone: (85)991720566</p> <br>
+                        <p> © 2024  Meu Site Pessoal</p>
+                    </footer>
+            </section>
+        </body>
+    </html>
